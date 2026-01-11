@@ -1,0 +1,10 @@
+# Repo root ignores
+.DS_Store
+*.log
+*.swp
+.vscode/
+.idea/
+.dart_tool/
+.pub/
+.pub-cache/
+/build/
